@@ -1,0 +1,37 @@
+body{
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(23,52,87,1) 100%);
+  margin: 0;
+  padding: 0%;
+}
+#palet{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+.box{
+  border: 1px solid black;
+  border-style: dashed;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 36px;
+}
+#margin{
+  background-color: rgb(230, 162, 37);
+}
+#border{
+  background-color: rgb(236, 211, 127);
+  border-style: solid;
+}
+#padding{
+  background-color: rgb(107, 223, 152);
+  border-style: solid;
+}
+#content{
+  background-color: rgb(183, 248, 239);
+}
