@@ -9,3 +9,5 @@ Content: This is the core area where text, images, or other media elements are d
 Padding: The space around the content inside the border. It adds extra space between the content and the border, making the content area look larger.
 Border: The outline that surrounds the padding and content. Borders can be styled with various colors, thicknesses, and patterns.
 Margin: The space outside the border that separates an element from other elements. Margins create spacing between boxes on a page.
+
+Class Assignment Web programming
