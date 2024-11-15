@@ -22,14 +22,14 @@ body{
   padding-bottom: 36px;
 }
 #margin{
-  background-color: rgb(230, 162, 37);
+  background-color: rgb(197, 132, 11);
 }
 #border{
   background-color: rgb(236, 211, 127);
   border-style: solid;
 }
 #padding{
-  background-color: rgb(107, 223, 152);
+  background-color: rgba(107, 223, 152, 0.925);
   border-style: solid;
 }
 #content{
